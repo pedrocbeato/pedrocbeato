@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello World!
+My name is Pedro Beato.
+I'm interested in learning computer enginnering and programming in general.
+I am currently studying at Instituto Superior Técnico (Lisbon).
+
+
 
 <!--
 **OhBeato/OhBeato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

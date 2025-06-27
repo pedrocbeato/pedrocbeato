@@ -4,7 +4,7 @@
 - I’m currently re-learning *Data Structures and Algorithms*
 
 ## How to reach me:
-<p align="left">
+<p align="top">
 <a href="https://www.linkedin.com/in/pedrocastrobeato/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>

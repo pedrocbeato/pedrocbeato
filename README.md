@@ -7,7 +7,7 @@
 
 # Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocbeato&hide_border=true&theme=blue&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocbeato&hide_border=true&theme=ocean_dark&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocbeato&layout=compact&hide_border=true&langs_count=8&theme=midnight-purple" />

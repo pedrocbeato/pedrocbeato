@@ -4,15 +4,18 @@
 - I’m currently re-learning *Data Structures and Algorithms*
 
 ## How to reach me:
-<p align="top">
+<p align="left">
 <a href="https://www.linkedin.com/in/pedrocastrobeato/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
+</p>
 
+<p align="left">
 <a href="mailto:pedrocastrobeato@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
 </a>
 </p>
+
 
 ## Stats
 <!-- GitHub Stats -->

@@ -5,18 +5,19 @@
 
 ## How to reach me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedrocastrobeato/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle; margin-right: 100px;"/>
-    linkedin.com/pedrocastrobeato
+  <a href="https://www.linkedin.com/in/pedrocastrobeato/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+    <span style="font-size: 16px; color: inherit;">linkedin.com/pedrocastrobeato</span>
   </a>
 </p>
 
 <p align="left">
-  <a href="mailto:pedrocastrobeato@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40" style="vertical-align: middle; margin-right: 8px;"/>
-    pedrocastrobeato@gmail.com
+  <a href="mailto:pedrocastrobeato@gmail.com" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40" style="margin-right: 10px;"/>
+    <span style="font-size: 16px; color: inherit;">pedrocastrobeato@gmail.com</span>
   </a>
 </p>
+
 
 
 

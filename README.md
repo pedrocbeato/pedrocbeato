@@ -16,7 +16,7 @@
 </a>
 <!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
-  <img height="180em" src="https://streak-stats.demolab.com?user=pedrocbeato&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=1a1a2e&stroke=16213e&ring=f39c12&fire=e74c3c&currStreakNum=eee&sideNums=eee&currStreakLabel=e74c3c&sideLabels=bbb&dates=bbb" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=pedrocbeato&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=1a1a2e&stroke=16213e&ring=f39c12&fire=e74c3c&currStreakNum=eee&sideNums=eee&currStreakLabel=e74c3c&sideLabels=bbb&dates=bbb" />
 </a>
 
 

@@ -13,7 +13,8 @@
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40" style="vertical-align: middle;"/>
+
+  <img src="https://img.shields.io/badge/Gmail-58A6FF?style=flat&logo=gmail&logoColor=white" alt="Gmail" width="40" height="40" style="vertical-align: middle;"/>
   &nbsp;
   <a href="mailto:pedrocastrobeato@gmail.com" target="_blank">
     pedrocastrobeato@gmail.com

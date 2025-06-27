@@ -14,7 +14,7 @@
 <p align="left">
   <a href="mailto:pedrocastrobeato@gmail.com" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40" style="margin-right: 10px;"/>
-    <span style="font-size: 16px; color: inherit;">pedrocastrobeato@gmail.com</span>
+    <span style="font-size: 16px; color: inherit;">pedrocastsdfobeato@gmail.com</span>
   </a>
 </p>
 

@@ -5,18 +5,21 @@
 
 ## How to reach me:
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;"/>
+  &nbsp;
   <a href="https://www.linkedin.com/in/pedrocastrobeato/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-    &nbsp;&nbsp;&nbsp;linkedin.com/pedrocastrobeato
+    linkedin.com/pedrocastrobeato
   </a>
 </p>
 
 <p align="left">
+  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40" style="vertical-align: middle;"/>
+  &nbsp;
   <a href="mailto:pedrocastrobeato@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
-    &nbsp;pedrocastrobeato@gmail.com
+    pedrocastrobeato@gmail.com
   </a>
 </p>
+
 
 
 

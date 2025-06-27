@@ -5,7 +5,7 @@
 
 ## How to reach me:
 <p align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://img.shields.io/badge/LinkedIn-58A6FF?style=flat&logo=linkedin&logoColor=white)" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;"/>
   &nbsp;
   <a href="https://www.linkedin.com/in/pedrocastrobeato/" target="_blank">
     linkedin.com/pedrocastrobeato

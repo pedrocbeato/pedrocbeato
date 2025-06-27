@@ -4,6 +4,15 @@
 - I’m currently re-learning *Data Structures and Algorithms*
 - How to reach me: *pedrocastrobeato@gmail.com*
 
+- <!-- Flat style -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+
+<!-- For-the-badge style -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+
+<!-- Plastic style -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
+
 
 # Stats
 <!-- GitHub Stats -->

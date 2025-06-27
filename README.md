@@ -6,8 +6,8 @@
 ## How to reach me:
 <p align="left">
 <a href="https://www.linkedin.com/in/pedrocastrobeato/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-      linkedin.com/pedrocastrobeato/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle; margin-right: 8px;"/>
+  linkedin.com/pedrocastrobeato
 </a>
 </p>
 

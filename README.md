@@ -2,11 +2,13 @@
 
 - I’m currently studying at Instituto Superior Técnico (Lisbon).
 - I’m currently re-learning *Data Structures and Algorithms*
-- How to reach me: *pedrocastrobeato@gmail.com*
 
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+# How to reach me:
+<a href="https://www.linkedin.com/in/pedrocastrobeato/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
+
+*pedrocastrobeato@gmail.com*
 
 
 # Stats

@@ -1,6 +1,6 @@
 ## Hello, my name is Pedro Beato!
 
-- I'm a LEIC-A Graduate
+- I'm a LEIC-A (IST) Graduate
 - Currently interested in deepening my knowledge in Java, Spring Boot, PostgreSQL
 - Studying more in depth backend system engineering!
 

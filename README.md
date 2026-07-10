@@ -1,7 +1,8 @@
 ## Hello, my name is Pedro Beato!
 
-- I’m currently studying at Instituto Superior Técnico (Lisbon).
-- I’m currently re-learning *Data Structures and Algorithms*
+- I'm a LEIC-A Graduate
+- Currently interested in deepening my knowledge in Java, Spring Boot, PostgreSQL
+- Studying more in depth backend system engineering!
 
 ## How to reach me:
 <p align="left">
@@ -12,13 +13,14 @@
   </a>
 </p>
 
-<p align="left">
+<!--<p align="left">
   <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40" height="40" style="vertical-align: middle;"/>
   &nbsp;
   <a href="mailto:pedrocastrobeato@gmail.com" target="_blank">
     pedrocastrobeato@gmail.com
   </a>
 </p>
+-->
 
 
 
